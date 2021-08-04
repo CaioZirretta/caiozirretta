@@ -10,6 +10,7 @@
 [<img align='left' alt='instagram' width='48px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' />][Instagram]
 [<img align='left' alt='instagram' width='48px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][Twitter] <br />
 
+<br />
 <hr />
 
 ## Brazilian and computer engineering student!
