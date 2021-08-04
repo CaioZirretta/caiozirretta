@@ -6,9 +6,9 @@
 
 ### Informações de contato
 
-[<img align='left' alt='instagram' width='24px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg'/>][LinkedIn]
-[<img align='left' alt='instagram' width='24px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' />][Instagram]
-[<img align='left' alt='instagram' width='24px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][Twitter] <br />
+[<img align='left' alt='instagram' width='48px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg'/>][LinkedIn]
+[<img align='left' alt='instagram' width='48px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' />][Instagram]
+[<img align='left' alt='instagram' width='48px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][Twitter] <br />
 
 <hr />
 
@@ -20,9 +20,9 @@
 
 ### Contact info
 
-[<img align='left' alt='instagram' width='18px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg'/>][LinkedIn]
-[<img align='left' alt='instagram' width='18px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' />][Instagram]
-[<img align='left' alt='instagram' width='18px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][Twitter] <br />
+[<img align='left' alt='instagram' width='48px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg'/>][LinkedIn]
+[<img align='left' alt='instagram' width='48px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' />][Instagram]
+[<img align='left' alt='instagram' width='48px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][Twitter] <br />
 
 [LinkedIn]: https://www.linkedin.com/in/caiozirretta/
 [Instagram]: https://www.instagram.com/caiozirretta/
