@@ -1,6 +1,6 @@
 ## Brasileiro e estudeante de engenharia da computação!
 - 😁 Dev estagiário na TOTVS;
-- 📚 No momento estou aprendendo HTML, CSS e JavaScript (Node e futuramente React e BootsTrap)
+- 📚 No momento estou aprendendo Java (Spring) e JavaScript (Angular);
 - 🤝 Caso veja algo esquisito ou errado em meu código, por favor entre em contato!
 - 🎮 Hobbies: Eu amo jogar e assistir anime/cartoon.
 
@@ -15,7 +15,7 @@
 
 ## Brazilian and computer engineering student!
 - 😁 Intern Dev for TOTVS;
-- 📚 I’m currently learning HTML, CSS and JavaScript (Node and futurely React and BootsTrap);
+- 📚 I’m currently learning Java (Spring) and JavaScript (Angular);
 - 🤝 If you see somethid wrong or odd with my works, please contact me!
 - 🎮 Hobbies: I love gaming and watch anime/cartoon.
 
