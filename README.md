@@ -2,7 +2,7 @@
 - 😁 Dev estagiário na TOTVS;
 - 📚 No momento estou aprendendo Java (Spring) e JavaScript (Angular);
 - 🤝 Caso veja algo esquisito ou errado em meu código, por favor entre em contato!
-- 🎮 Hobbies: Eu amo jogar e assistir anime/cartoon.
+- 🎮 Eu amo jogar e assistir animes/cartoons.
 
 ### Informações de contato
 
@@ -17,7 +17,7 @@
 - 😁 Intern Dev for TOTVS;
 - 📚 I’m currently learning Java (Spring) and JavaScript (Angular);
 - 🤝 If you see somethid wrong or odd with my works, please contact me!
-- 🎮 Hobbies: I love gaming and watch anime/cartoon.
+- 🎮I love gaming and watch anime/cartoon.
 
 ### Contact info
 
