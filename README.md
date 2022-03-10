@@ -1,6 +1,6 @@
 ## Brasileiro e estudeante de engenharia da computação!
 - 😁 Dev estagiário na TOTVS;
-- 📚 No momento estou aprendendo Java (Spring) e JavaScript (Angular);
+- 📚 No momento estou aprendendo Java (Spring);
 - 🤝 Caso veja algo esquisito ou errado em meu código, por favor entre em contato!
 - 🎮 Eu amo jogar e assistir animes/cartoons.
 
@@ -15,7 +15,7 @@
 
 ## Brazilian and computer engineering student!
 - 😁 Intern Dev for TOTVS;
-- 📚 I’m currently learning Java (Spring) and JavaScript (Angular);
+- 📚 I’m currently learning Java (Spring);
 - 🤝 If you see somethid wrong or odd with my works, please contact me!
 - 🎮I love gaming and watch anime/cartoon.
 
