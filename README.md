@@ -1,5 +1,5 @@
 ## Brasileiro e estudeante de engenharia da computação!
-- 😁 Desenvolvedor na Betha;
+- 😁 Desenvolvedor na Betha Sistemas;
 - 📚 Trabalho com Java (Spring) no back-end e JavaScript (Angular, React, Node) fullstack;
 - 🎮 Eu amo jogar e assistir animes/cartoons.
 
