@@ -1,6 +1,6 @@
 ## Brasileiro e estudante de engenharia da computação!
-- 😁 Desenvolvedor na Betha Sistemas;
-- 📚 Trabalho com Java (Spring e EE) no back-end e JavaScript (Angular, React, Node) fullstack;
+- 😁 Desenvolvedor fullstack na TOTVS;
+- 📚 Trabalho com Java (Spring) no back-end e TypeScript (Angular, React, Node) nas duas stacks;
 - 🎮 Eu amo jogar e assistir animes/cartoons.
 
 ### Informações de contato
@@ -13,8 +13,8 @@
 <br />
 
 ## Brazilian and computer engineering student!
-- 😁 Betha Systems developer;
-- 📚 I work with Java (Spring and EE) in the back-end and JavaScript (Angular, React, Node) fullstack;
+- 😁 TOTVS fullstack developer;
+- 📚 I work with Java (Spring) in the back-end and TypeScript (Angular, React, Node) in all stacks;
 - 🎮 I love gaming and watch anime/cartoon.
 
 ### Contact info
