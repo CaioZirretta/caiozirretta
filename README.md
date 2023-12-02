@@ -1,4 +1,4 @@
-## Brasileiro e estudante de engenharia da computação!
+## Brasileiro e engenheiro de computação!
 - 😁 Desenvolvedor fullstack na TOTVS;
 - 💻 Trabalho com Java (Spring) no back-end e TypeScript (Angular, React, Node) nas duas stacks;
 - 📚 Engenheiro de Computação pela Universidade Federal de Goiás;
@@ -13,7 +13,7 @@
 <hr />
 <br />
 
-## Brazilian and computer engineering student!
+## Brazilian and computer engineer!
 - 😁 TOTVS fullstack developer;
 - 💻I work with Java (Spring) in the back-end and TypeScript (Angular, React, Node) in all stacks;
 - 📚 Computer engineer from Goiás Federal University
