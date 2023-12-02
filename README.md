@@ -1,7 +1,8 @@
 ## Brasileiro e estudante de engenharia da computação!
 - 😁 Desenvolvedor fullstack na TOTVS;
-- 📚 Trabalho com Java (Spring) no back-end e TypeScript (Angular, React, Node) nas duas stacks;
-- 🎮 Eu amo jogar e assistir animes/cartoons.
+- 💻 Trabalho com Java (Spring) no back-end e TypeScript (Angular, React, Node) nas duas stacks;
+- 📚 Engenheiro de Computação pela Universidade Federal de Goiás;
+- 🎮 Eu amo jogar e assistir animes/cartoons (Não fale de Evangelion se não quiser uma palestra).
 
 ### Informações de contato
 [<img align='left' alt='linkedin' width='36px' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'/>][LinkedIn]
@@ -14,8 +15,9 @@
 
 ## Brazilian and computer engineering student!
 - 😁 TOTVS fullstack developer;
-- 📚 I work with Java (Spring) in the back-end and TypeScript (Angular, React, Node) in all stacks;
-- 🎮 I love gaming and watch anime/cartoon.
+- 💻I work with Java (Spring) in the back-end and TypeScript (Angular, React, Node) in all stacks;
+- 📚 Computer engineer from Goiás Federal University
+- 🎮 I love gaming and watch anime/cartoon (Don't ask me about Evangelion if you don't want a speech).
 
 ### Contact info
 
