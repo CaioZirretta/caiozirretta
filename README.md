@@ -1,13 +1,13 @@
 ## Brasileiro e engenheiro de computação!
-- 😁 Desenvolvedor fullstack na TOTVS;
-- 💻 Trabalho com Java (Spring) no back-end e TypeScript (Angular, React, Node) nas duas stacks;
-- 📚 Engenheiro de Computação pela Universidade Federal de Goiás;
-- 🎮 Eu amo jogar e assistir animes/cartoons (Não fale de Evangelion se não quiser uma palestra).
+- 😁 Desenvolvedor fullstack na TOTVS.
+- 💻 No frontend meu queridinho é o, Angular, mas também curto muito React!
+- 💾 No backend divido atenção entre Java e Node, mas prefiro Java (Não conta pro Node...).
+- 📚 Engenheiro de Computação pela Universidade Federal de Goiás.
+- 🎮 Gosto de jogos, board games, TCG e RPG de mesa.
 
 ### Informações de contato
 [<img align='left' alt='linkedin' width='36px' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'/>][LinkedIn]
 [<img align='left' alt='instagram' width='36px' src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png' />][Instagram]
-[<img align='left' alt='twitter' width='36px' src='https://cdn-icons-png.flaticon.com/512/3256/3256013.png' />][Twitter] <br />
 
 <br />
 <hr />
@@ -15,16 +15,15 @@
 
 ## Brazilian and computer engineer!
 - 😁 TOTVS fullstack developer;
-- 💻I work with Java (Spring) in the back-end and TypeScript (Angular, React, Node) in all stacks;
+- 💻 On the frontend, my favorite is Angular, but I also enjoy React a lot!
+- 💾 On the backend I divide my attention between Java and Node, but I prefer Java (Don't tell Node...).
 - 📚 Computer engineer from Goiás Federal University
-- 🎮 I love gaming and watch anime/cartoon (Don't ask me about Evangelion if you don't want a speech).
+- 🎮 i like videogames, board games, TCG and tabletop RPG.
 
 ### Contact info
 
 [<img align='left' alt='linkedin' width='36px' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'/>][LinkedIn]
 [<img align='left' alt='instagram' width='36px' src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png' />][Instagram]
-[<img align='left' alt='twitter' width='36px' src='https://cdn-icons-png.flaticon.com/512/3256/3256013.png' />][Twitter] <br />
 
 [LinkedIn]: https://www.linkedin.com/in/caiozirretta/
 [Instagram]: https://www.instagram.com/caiozirretta/
-[Twitter]: https://twitter.com/hidrogenario
